@@ -1,2 +1,3 @@
-# LoveLocal-Mpaani-Solutions-
-LoveLocal(Mpaani Solutions) assessment solution on GitHub. Discover my approach towards empowering local economies and driving positive change.
+Hello, I'm Souparnika, currently in my fourth year pursuing Engineering at Alvas Institute of Engineering and Technology. My academic focus lies in the intriguing realms of Artificial Intelligence and Machine Learning (AI/ML). Exploring the convergence of technology and innovation, I am passionate about leveraging AI algorithms and data-driven solutions to tackle real-world challenges. At Alvas, I've been fortunate to delve deep into the intricate facets of AI and Machine Learning, honing my skills to develop innovative solutions that resonate with today's dynamic technological landscape. I am excited about the endless possibilities these fields offer and am driven by the goal of contributing meaningfully to the advancements in AI and its applications.
+
+Email Id : souparnikasubhash20@gmail.com
